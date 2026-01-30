@@ -24,6 +24,9 @@ pageClass: device-page
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 
+## Binding
+
+This device does not support binding.
 
 <!-- Notes END: Do not edit below this line -->
 
